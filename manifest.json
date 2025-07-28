@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Link Clicker - Agape Labs",
+  "version": "1.0",
+  "description": "Instantly click hyperlinks by their visible text, not only on the current tab, but across all your open tabs in Chrome.",
+  "permissions": [
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon48.png"
+  }
+}
