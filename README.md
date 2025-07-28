@@ -45,4 +45,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Agape Labs - Email: lab@agapemedia.co.in
+Agape Labs - [labs@agapemedia.co.in](mailto:labs@agapemedia.co.in)
