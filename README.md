@@ -1,3 +1,14 @@
+# Auto Link Clicker - Agape Labs
+
+[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO) 
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+An efficient Chrome extension that automatically clicks hyperlinks based on their visible text, searching across all of your open tabs.
+
+<!-- Optional: Add a screenshot of your extension's popup here -->
+<!-- <p align="center">
+  <img src="path/to/screenshot.png" alt="Auto Link Clicker Screenshot" width="300"/>
+</p> -->
 ## About The Project
 
 **Auto Link Clicker** is a simple yet powerful browser automation tool designed to save you time. Instead of manually searching for and clicking the same link on multiple pages, this extension lets you specify the link's text, and it will programmatically click it for you on every open tab in your Chrome browser [3].
